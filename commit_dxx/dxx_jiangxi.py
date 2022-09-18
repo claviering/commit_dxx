@@ -17,7 +17,7 @@ headers = {
     'Host': 'www.jxqingtuan.cn',
     'Origin': 'http://www.jxqingtuan.cn',
     'Referer': 'http://www.jxqingtuan.cn/html/h5_index.html?&accessToken=' + openid,
-    'User-Agent': UserAgent(platform="iphone").wechat,
+    'User-Agent': UserAgent(platform="iphone",max_version=5,min_version=1).wechat,
     'X-Requested-With': 'XMLHttpRequest'
 }
 url = "http://www.jxqingtuan.cn/pub/vol/volClass/current"
