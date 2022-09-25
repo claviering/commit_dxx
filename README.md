@@ -21,10 +21,14 @@
 - [吉青飞扬](./commit_dxx/dxx_jilin.py)
 - [重庆共青团](./commit_dxx/dxx_chongqing.py)
 - [湖南共青团](./commit_dxx/dxx_hunan.py)
+- [青春黔言](./commit_dxx/dxx_guizhou.py)
 
 ## To Do
 - 增加更多地区
 ## 更新日志
+
+### 2022/09/25
+- 增加`青春黔言`
 
 ### 2022/09/18
 
