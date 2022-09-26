@@ -22,6 +22,7 @@
 - [重庆共青团](./commit_dxx/dxx_chongqing.py)
 - [湖南共青团](./commit_dxx/dxx_hunan.py)
 - [青春黔言](./commit_dxx/dxx_guizhou.py)
+- [广东共青团](./poster/README.md)
 
 ## To Do
 - 增加更多地区
